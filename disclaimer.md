@@ -4,7 +4,7 @@ All vulnerability assessment and penetration testing activities documented
 in this repository were performed exclusively in a controlled laboratory
 environment using intentionally vulnerable applications.
 
-The target application, Damn Vulnerable Web Application (DVWA), is designed
+The target application, Damn Vulnerable Web Application (DVWA) - is designed
 specifically for security testing and educational purposes.
 
 No real-world, production, or unauthorized systems were accessed, tested,
