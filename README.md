@@ -87,4 +87,8 @@ on intentionally vulnerable lab applications for educational purposes.
 
 No unauthorized systems were tested.
 
+## Author
 
+**Mahil Joshi**  
+- LinkedIn: https://linkedin.com/in/mahiljoshi  
+- GitHub: https://github.com/mahiljoshi  
